@@ -8,9 +8,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://sysuhit.club/favicon.ico?v=1595168624512">
+<link rel="shortcut icon" href="https://sysuhit.club/favicon.ico?v=1595168869432">
 <link rel="stylesheet" href="https://sysuhit.club/styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
@@ -18,14 +24,17 @@
 
 
 
-    <meta name="description" content="系统设置（system)
+    <meta name="description" content="
+系统设置（system)
 
 界面设置
 
 
 * 硬件测试
 
-Yang Chz: 对于在酸性中不稳定的催化剂，在使用nafion之前需要对nafion进行处理，nafion属于导电离子型聚合物，酸性。将2体积的nafion与1体积的0.1M的M..." />
+## 工作电极的制备（Preparation of catalyst ink)
+### 旋转圆盘电极（RDE/RRDE)
+Yang Chz: 滴涂（drop-casting)在旋转..." />
     <meta name="keywords" content="测试方法" />
   </head>
   <body>
@@ -35,7 +44,7 @@ Yang Chz: 对于在酸性中不稳定的催化剂，在使用nafion之前需要�
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://sysuhit.club">
-        <img src="https://sysuhit.club/images/avatar.png?v=1595168624512" class="site-logo">
+        <img src="https://sysuhit.club/images/avatar.png?v=1595168869432" class="site-logo">
         <h1 class="site-title">Zhongfei&#39;s blog</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -105,21 +114,20 @@ Yang Chz: 对于在酸性中不稳定的催化剂，在使用nafion之前需要�
             <div class="post-date">2020-07-19</div>
             
             <div class="post-content" v-pre>
-              <h2 id="系统设置system">系统设置（system)</h2>
+              <!-- more -->
+<h2 id="系统设置system">系统设置（system)</h2>
 <ul>
 <li>界面设置</li>
 </ul>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/zhongfeiLiu/Figurebed@master/img/晨华电化学工作站系统设置" alt="界面设置" style="zoom:100%;" align="center" width="500" height="400"/></div>
 * 硬件测试
-<img src="https://cdn.jsdelivr.net/gh/zhongfeiLiu/Figurebed@master/img/晨华电化学工作站硬件测试")
+<img src="https://cdn.jsdelivr.net/gh/zhongfeiLiu/Figurebed@master/img/晨华电化学工作站硬件测试"/>
 ## 工作电极的制备（Preparation of catalyst ink)
 ### 旋转圆盘电极（RDE/RRDE)
 Yang Chz: 滴涂（drop-casting)在旋转圆盘电极上的催化剂浓度不能高，溶剂的挥发速度要快，10mg催化剂在1960μL的四氢呋喃(THF)中超声，加入准备好的Nafion溶液60μL。继续超声。取10μL的分散液滴涂,
 ### Nafion 的处理
-<ul>
-<li>Yang Chz: 对于在酸性中不稳定的催化剂，在使用nafion之前需要对nafion进行处理，nafion属于导电离子型聚合物，酸性。将2体积的nafion与1体积的0.1M的MOH(M 为碱金属)溶液混合，配制准备ink时需要的nafion溶液. 配置Ir的催化剂ink时，nafion不需要碱性溶液处理。</li>
-<li>Li Y: 总溶液体积1mL, 795μL的超纯水，200μL的异丙醇，分散2mg的催化剂，加入5~10μL的nafion(未加入碱溶液处理), nafion 需要根据催化剂是否稳定在基底上来确定。也可以将催化剂用超纯水和异丙醇分散好之后滴在玻碳电极(<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>0.07</mn><mi>c</mi><msup><mi>m</mi><mrow><mo>−</mo><mn>2</mn></mrow></msup></mrow><annotation encoding="application/x-tex">0.07cm^{-2}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord">0</span><span class="mord">.</span><span class="mord">0</span><span class="mord">7</span><span class="mord mathdefault">c</span><span class="mord"><span class="mord mathdefault">m</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span></span>), 待干燥之后再加入5~10μL的nafion溶液。<span style="color:red">从分散液中移液枪取4μL滴在电极上</span>需要在电解质中循环20圈左右进行清洗、活化、稳定。然后测试</li>
-</ul>
+* Yang Chz: 对于在酸性中不稳定的催化剂，在使用nafion之前需要对nafion进行处理，nafion属于导电离子型聚合物，酸性。将2体积的nafion与1体积的0.1M的MOH(M 为碱金属)溶液混合，配制准备ink时需要的nafion溶液. 配置Ir的催化剂ink时，nafion不需要碱性溶液处理。
+* Li Y: 总溶液体积1mL, 795μL的超纯水，200μL的异丙醇，分散2mg的催化剂，加入5~10μL的nafion(未加入碱溶液处理), nafion 需要根据催化剂是否稳定在基底上来确定。也可以将催化剂用超纯水和异丙醇分散好之后滴在玻碳电极($0.07cm^{-2}$), 待干燥之后再加入5~10μL的nafion溶液。<span style="color:red">从分散液中移液枪取4μL滴在电极上</span>需要在电解质中循环20圈左右进行清洗、活化、稳定。然后测试
 <h3 id="碳纸长方形玻碳钛片镍网镍片电极">碳纸/长方形玻碳/钛片/镍网/镍片电极</h3>
 <ul>
 <li>Yang Chz: 浓度较高的ink滴涂。10mg催化剂，140μL的THF,60μL的nafion。nafion的量为10mg/60μL。滴涂过程夹住碳纸等，让它倾斜，在通风橱中进行操作。使用小瓶子配置ink，小管子配置损耗大</li>
@@ -189,6 +197,12 @@ Yang Chz: 滴涂（drop-casting)在旋转圆盘电极上的催化剂浓度不能
             
 
             
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
 
           </div>
 
@@ -216,6 +230,29 @@ var app = new Vue({
     hljs.initHighlightingOnLoad()
   </script>
 
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '',
+        clientSecret: '',
+        repo: '',
+        owner: '',
+        admin: [''],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
