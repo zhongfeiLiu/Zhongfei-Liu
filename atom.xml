@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sysuhit.club</id>
     <title>Zhongfei&apos;s blog</title>
-    <updated>2020-07-21T13:20:26.600Z</updated>
+    <updated>2020-07-27T10:36:05.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sysuhit.club"/>
     <link rel="self" href="https://sysuhit.club/atom.xml"/>
@@ -10,41 +10,6 @@
     <logo>https://sysuhit.club/images/avatar.png</logo>
     <icon>https://sysuhit.club/favicon.ico</icon>
     <rights>All rights reserved 2020, Zhongfei&apos;s blog</rights>
-    <entry>
-        <title type="html"><![CDATA[电化学测试]]></title>
-        <id>https://sysuhit.club/post/MCi09mJgl/</id>
-        <link href="https://sysuhit.club/post/MCi09mJgl/">
-        </link>
-        <updated>2020-07-19T13:47:21.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ IrOOH nanosheets as acid stable electrochemical catalyst for the oxygen evolution reaction]]></title>
-        <id>https://sysuhit.club/post/LuHLxHM-j/</id>
-        <link href="https://sysuhit.club/post/LuHLxHM-j/">
-        </link>
-        <updated>2020-07-19T00:56:07.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Regulating Spin State of Fe(Ⅲ) by Atomically Anchoring on Ultrathin Titanium Dioxide for Efficient Oxygen Evolution Electrocatalysis]]></title>
-        <id>https://sysuhit.club/post/qNbTYpDlK/</id>
-        <link href="https://sysuhit.club/post/qNbTYpDlK/">
-        </link>
-        <updated>2020-07-16T15:43:59.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于“学习” 的一点思考  ]]></title>
-        <id>https://sysuhit.club/post/guan-yu-xue-xi-de-yi-dian-si-kao/</id>
-        <link href="https://sysuhit.club/post/guan-yu-xue-xi-de-yi-dian-si-kao/">
-        </link>
-        <updated>2020-06-11T06:28:02.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[读《尘埃落定》有感]]></title>
-        <id>https://sysuhit.club/post/du-lesslesschen-ai-luo-ding-greatergreater-you-gan/</id>
-        <link href="https://sysuhit.club/post/du-lesslesschen-ai-luo-ding-greatergreater-you-gan/">
-        </link>
-        <updated>2020-06-05T12:42:49.000Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://sysuhit.club/post/about/</id>
