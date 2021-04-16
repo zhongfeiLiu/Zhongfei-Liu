@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sysuhit.club</id>
     <title>Zhongfei&apos;s blog</title>
-    <updated>2020-07-27T10:41:40.696Z</updated>
+    <updated>2021-04-16T08:18:31.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sysuhit.club"/>
     <link rel="self" href="https://sysuhit.club/atom.xml"/>
     <subtitle>我来问道无余说，云在青天水在瓶</subtitle>
     <logo>https://sysuhit.club/images/avatar.png</logo>
     <icon>https://sysuhit.club/favicon.ico</icon>
-    <rights>All rights reserved 2020, Zhongfei&apos;s blog</rights>
+    <rights>All rights reserved 2021, Zhongfei&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[ IrOOH nanosheets as acid stable electrochemical catalyst for the oxygen evolution reaction]]></title>
+        <id>https://sysuhit.club/post/LuHLxHM-j/</id>
+        <link href="https://sysuhit.club/post/LuHLxHM-j/">
+        </link>
+        <updated>2020-07-19T00:56:07.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regulating Spin State of Fe(Ⅲ) by Atomically Anchoring on Ultrathin Titanium Dioxide for Efficient Oxygen Evolution Electrocatalysis]]></title>
+        <id>https://sysuhit.club/post/qNbTYpDlK/</id>
+        <link href="https://sysuhit.club/post/qNbTYpDlK/">
+        </link>
+        <updated>2020-07-16T15:43:59.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://sysuhit.club/post/about/</id>
